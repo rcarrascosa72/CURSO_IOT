@@ -1,0 +1,30 @@
+
+
+aws
+rcarrascosa@me.com
+Kasi0pea24$
+
+usuario linux --> ubuntu
+
+
+LOCALIZACION --> NORTE DE VIRGINIA
+SERVIDOR --> RCN_UBUNTU
+
+
+riot24.online
+34.206.93.191
+
+servidor de mi dominio .. hastas 4/1/2025
+hostinger.com
+
+https://www.emqx.io/
+
+run emqx:
+sudo systemctl start emqx
+
+http://34.206.93.191:18083/
+http://riot24.online:18083/#/login?to=/dashboard/overview
+
+usuario:admin
+password: public
+
